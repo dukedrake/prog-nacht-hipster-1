@@ -50,3 +50,8 @@
   - [ ] würde nicht
 
 
+## installation notes
+
+  - install GHC like so
+  - [GHC download](https://www.haskell.org/ghc/download_ghc_8_0_1#linux_i386)
+
